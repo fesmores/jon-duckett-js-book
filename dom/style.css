@@ -1,0 +1,58 @@
+body {
+  margin: auto;
+}
+
+.main-container {
+  border: solid 2px #16697a;
+}
+
+.onlydiv {
+  background-color: #ffa45b;
+  display: inline-block;
+  /* width: 25%;
+  height: 25%; */
+  margin-top: 15%;
+  margin-left: 45%;
+}
+
+.bluediv {
+  background-color: #16697a;
+  color: #fff;
+  display: inline-block;
+  /* width: 25%;
+  height: 25%; */
+  margin-top: 15%;
+  margin-left: 45%;
+}
+
+.btn {
+  display: block;
+  margin-left: 47%;
+  padding: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+.hot {
+  background-color: red;
+  float: left;
+  display: inline-block;
+  font-size: 2.5rem;
+  clear: left;
+}
+
+.cold {
+  background-color: #16697a;
+  color: #fff;
+  font-size: 2.5rem;
+  /* display: inline-block; */
+  clear: left;
+}
+
+.italic-view {
+  font-style: italic;
+  font-size: 5rem;
+}
