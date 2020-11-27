@@ -1,3 +1,5 @@
+// This is a git test
+
 var newElemColorFlag = true;
 
 function changeDiv() {
